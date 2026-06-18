@@ -1,0 +1,6 @@
+{
+  "name": "DrainCo Plumbing & Drain Cleaning",
+  "description": "15-year trusted emergency plumber in Johannesburg & Pretoria. Blocked drains from R850. 60-min response. No call-out fee. 500+ SA homes trust DrainCo. Call 067 289 6476.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
